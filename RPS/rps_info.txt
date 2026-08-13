@@ -1,0 +1,20 @@
+
+fist.png
+<a href="https://www.flaticon.com/free-icons/fist" title="fist icons">Fist icons created by Cuputo - Flaticon</a>
+
+rocks.png
+<a href="https://www.flaticon.com/free-icons/rocks" title="rocks icons">Rocks icons created by Dreamcreateicons - Flaticon</a>
+
+
+hand-paper.png
+<a href="https://www.flaticon.com/free-icons/rock-paper-scissors" title="rock paper scissors icons">Rock paper scissors icons created by iconading - Flaticon</a>
+
+documents.png
+<a href="https://www.flaticon.com/free-icons/paper" title="paper icons">Paper icons created by Freepik - Flaticon</a>
+
+scissors.png
+<a href="https://www.flaticon.com/free-icons/scissors" title="scissors icons">Scissors icons created by Cap Cool - Flaticon</a>
+
+
+scissor.png
+<a href="https://www.flaticon.com/free-icons/scissors" title="scissors icons">Scissors icons created by Creative Stall Premium - Flaticon</a>

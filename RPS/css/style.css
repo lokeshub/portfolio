@@ -1,0 +1,67 @@
+.header {
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: #DCFFB7;
+    text-align: center;
+    color: #FF6868;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.window {
+    margin-top: 1rem;
+    background-color: #FFEAA7;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #FF6868;
+    
+}
+
+.board {
+    color: #FF6868;
+    font-family: sans-serif;
+}
+
+.board-img {
+    width: 50%;
+    visibility: hidden; /* Start with hidden */
+}
+
+.select {
+    margin-top: 1rem;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.select-btn {
+    outline: none;
+    border: 2px solid #FF6868;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: #FFEAA7;
+    padding: 5px;
+    background-size: 60px 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.fist {
+    background-image: url('../images/fist.png');
+}
+
+.paper {
+    background-image: url('../images/hand-paper.png');
+}
+
+.scissors {
+    background-image: url('../images/scissors.png');
+}
+
+/* To give pressed effect */
+.pressed {
+    box-shadow: 0 3px 4px 0 #f59191;
+    opacity: 0.5;
+}
